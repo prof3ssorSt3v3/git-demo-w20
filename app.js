@@ -1,3 +1,6 @@
+const friends = require("./friends.json");
+const family = require("./family.json");
+
 const app = {
   init: () => {
     console.log("app running");
